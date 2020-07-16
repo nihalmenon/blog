@@ -1,0 +1,16 @@
+* {
+	font-family: "Georgia", Serif;
+	text-rendering: optimizeLegibility;
+	-moz-osx-font-smoothing: grayscale;
+	-moz-font-feature-settings: "liga", "kern";
+	-webkit-font-smoothing: antialiased !important;
+	color: #262626;
+}
+
+.titleLink {
+	color: #262626;
+}
+
+.titleLink:hover {
+	color: #262626;
+}
